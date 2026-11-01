@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment and credentials
+.env
+.env.*
+!.env.example
+
+# HubSpot local settings
+.hs/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
